@@ -1,5 +1,5 @@
 Pac Man Final Project 
-Created By: Mallory Haprer, Chris Chevalier, Greg Shao
+
 
    __        ___       __        ___       __        ___      __        ___
   / o\      /o o\     / o\      /o o\     / o\      /o o\    / o\      /o o\
@@ -8,9 +8,9 @@ Created By: Mallory Haprer, Chris Chevalier, Greg Shao
 
 CONTENTS OF THIS FILE
 =====================
-= About the Project
-= Requirements
-= Installation
+- About the Project
+- Requirements
+- Installation
 
 
 ABOUT THE PROJECT
